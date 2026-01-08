@@ -11,7 +11,7 @@ except ImportError:
 # (!) You can add numbers and punctuation marks to encrypt those 
 # symbols as well.
 
-SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' 
 
 print('Caeser Cipher, by Isaackjoshua, isaackjoshua23@gmail.com')
 print('The caeser sipher encrypts letters by shifting them over by a')
